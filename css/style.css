@@ -1,6 +1,11 @@
+
 body{
     background-color: aliceblue;
 }
 ul{
     width: 50%;
+}
+p{
+    background-color: aqua;
+    width: 100%;
 }
